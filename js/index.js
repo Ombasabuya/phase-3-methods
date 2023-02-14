@@ -6,6 +6,7 @@
 function greetProgrammer() {
   console.log("Hello, programmer!");
 }
+greetProgrammer();
 
 /*
   You should be able to call this function with one argument and see its output in the terminal:
